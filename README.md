@@ -9,7 +9,7 @@
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning: MERN Stack
-  - 💬 Ask me about: C++, Competitive Programming, Web Development
+  - 💬 Ask me about: Competitive Programming, Web Development
   - 📫 How to reach me:through [mail](mailto:shreesawant37@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shree-sawant-2441a4233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <br />
